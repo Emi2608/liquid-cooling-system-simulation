@@ -57,7 +57,7 @@ st.pyplot(plt)
 # Add a data center server image (using a placeholder URL)
 try:
     st.image(
-        '/content/data_center.jpg',
+        'data_center.jpg',
         caption='Data Center Server',
         use_container_width=True
     )
